@@ -1,4 +1,4 @@
-# Conversations-with-GPT-3
+# Conversations with GPT-3
 Some interesting conversations I had with GPT-3.
 
 GPT-3's answers are in bold.
